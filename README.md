@@ -1,4 +1,4 @@
-# UniOT project page
+# RPO project page
 
 [Project page](https://wadx2019.github.io/rpo-webpage/) for [NeurIPS 2023 Poster] Reduced Policy Optimization for Continuous Control with Hard Constraints.
 
